@@ -1,0 +1,1 @@
+# use also ppipi website for install pip it is basicaly 
